@@ -1,0 +1,15 @@
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\obj\Debug\net8.0\ApiExemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\obj\Debug\net8.0\ApiExemplo.AssemblyInfoInputs.cache
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\obj\Debug\net8.0\ApiExemplo.AssemblyInfo.cs
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\obj\Debug\net8.0\ApiExemplo.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\obj\Debug\net8.0\ApiExemplo.sourcelink.json
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\bin\Debug\net8.0\ApiExemplo.exe
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\bin\Debug\net8.0\ApiExemplo.deps.json
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\bin\Debug\net8.0\ApiExemplo.runtimeconfig.json
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\bin\Debug\net8.0\ApiExemplo.dll
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\bin\Debug\net8.0\ApiExemplo.pdb
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\obj\Debug\net8.0\ApiExemplo.dll
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\obj\Debug\net8.0\refint\ApiExemplo.dll
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\obj\Debug\net8.0\ApiExemplo.pdb
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\obj\Debug\net8.0\ApiExemplo.genruntimeconfig.cache
+C:\Users\Ideapad\Documents\Programation\DIO\BootCamp.Net\Projetos\CalculadoraComTestes\ApiExemplo\obj\Debug\net8.0\ref\ApiExemplo.dll
